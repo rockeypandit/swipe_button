@@ -111,7 +111,7 @@ class SwipeButtonState extends State<SwipeButton>
                 height: 100,
                 decoration: BoxDecoration(
                   shape: BoxShape.circle,
-                  color: Colors.black,
+                  color: Colors.white,
                 ),
                 child: widget.thumb,
               ),
